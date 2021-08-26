@@ -2,7 +2,8 @@
 # Implementation of EfficientNet and YOLO models on fish species dataset
 
 Name: Atheeq Basha Syed
-, Department of Computer Science, University of Exeter 
+
+University of Exeter 
 
 Project Name: Underwater Video Analysis for Fish Biodiversity Monitoring
 
